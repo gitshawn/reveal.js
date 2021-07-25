@@ -1,4 +1,3 @@
-# H1
 
 ```java
 import lang.js
@@ -20,4 +19,3 @@ This is a test slide
 
 ---
 
-# Slide 2
