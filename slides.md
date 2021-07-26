@@ -1,4 +1,4 @@
-<!-- .slide: style="color:black" -->
+<!-- .slide: style="font-size: 50%" -->
 
 # H1
 
